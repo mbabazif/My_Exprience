@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+  }
+.cats p {
+    background-color: coral;
+    font-weight: bold;
+  }
+  .dogs p {
+    background-color: steelblue;
+    font-style: italic;
+  }
+  .dogs p a {
+    font-weight: bold;
+  }
+  a {
+    font-weight: normal;
+  }
+ 
