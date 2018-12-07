@@ -1,15 +1,20 @@
 html{
     background-color: aqua;
 }
+h1{
+    text-align: center;
+    text-shadow:  #FF0000;
+}
 .pictures{
     background-color: bisque;
-    width: 30%;
+    width: 28%;
     padding: 10px;
     position: relative;
-    left:40%;
-    right:40%;
+    left:30%;
+    right:30%;
     top: 60%;
     bottom:60%;
+    border-radius: 10%
 }
 ul {
     list-style-type: none;
