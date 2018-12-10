@@ -1,5 +1,10 @@
-html{
-   background: grey;
+
+nav{
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTid-vX6WzP8WRaglEm-ww2Yp7baPia1dCo08M9YksfpiDkkVgSpQ);
+   height: 500px;
+   background-image: cover;
+   
+
 }
 
 h1{
@@ -7,6 +12,7 @@ h1{
     font-style: italic;
    
 }
+
 .pictures{
     background-color: bisque;
     width: 28%;
@@ -20,7 +26,6 @@ h1{
 }
 .bar {
   list-style-type: none;
-  margin-top: 600px;
   
   padding: 0;
   overflow: hidden;
@@ -32,8 +37,10 @@ h1{
 }
 nav ul li { 
    display: inline-block;
+   padding-top:400px;
+   background-color: #333;
+  }
 
-}
 
 nav ul li a {
   display: inline-block;
@@ -63,8 +70,21 @@ ul{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
+  background-color: #333;
+  color: green;
   text-align: center;
 }
+/* .projects{
+display:flex;
+justify-content:space-between;
+padding:0;
+padding: 25px 50px 75px;
+}
 
+
+.about{
+display:flex;
+justify-content:space-between;
+padding:0;
+padding: 25px 50px 75px;
+} */
